@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fnf greenyangry",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "greeny",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		203,
+		155
+	],
+	"camera_position": [
+		50,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

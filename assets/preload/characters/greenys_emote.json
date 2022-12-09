@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "The ANIMATION",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_greeny_dance",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "greeny",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		203,
+		155
+	],
+	"camera_position": [
+		-220,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_angry instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_angry copy instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_angry instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_angry instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_angry instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				40
+			],
+			"anim": "wtf",
+			"fps": 23,
+			"name": "WTF instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nicole_angry_assets",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "nicole",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		127,
+		127
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

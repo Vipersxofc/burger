@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance"
+		},
+		{
+			"offsets": [
+				44,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance"
+		},
+		{
+			"offsets": [
+				62,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance"
+		},
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nicole_premad_assets",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "nicole",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		127,
+		127
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

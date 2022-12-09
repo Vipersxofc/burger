@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_BB_Sprites",
+	"position": [
+		200,
+		150
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		1,
+		75
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

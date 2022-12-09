@@ -1,0 +1,72 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Punch and ow",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Punch and ow",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				7
+			],
+			"anim": "huh",
+			"fps": 24,
+			"name": "huh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/adv_and_gf_fight",
+	"position": [
+		-360,
+		-390
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		280,
+		630
+	],
+	"sing_duration": 6.1,
+	"scale": 0.41
+}
