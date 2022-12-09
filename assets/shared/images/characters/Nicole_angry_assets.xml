@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nicole_angry_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WTF instance 10000" x="0" y="0" width="390" height="510" frameX="-72" frameY="-25" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10001" x="390" y="0" width="393" height="510" frameX="-69" frameY="-21" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10002" x="783" y="0" width="403" height="510" frameX="-65" frameY="-21" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10003" x="783" y="0" width="403" height="510" frameX="-65" frameY="-21" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10004" x="1186" y="0" width="453" height="510" frameX="-16" frameY="-23" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10005" x="1186" y="0" width="453" height="510" frameX="-16" frameY="-23" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10006" x="1639" y="0" width="442" height="524" frameX="-20" frameY="-26" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10007" x="2081" y="0" width="388" height="524" frameX="-74" frameY="-26" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10008" x="2469" y="0" width="397" height="523" frameX="-70" frameY="-27" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10009" x="2469" y="0" width="397" height="523" frameX="-70" frameY="-27" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10010" x="2866" y="0" width="402" height="527" frameX="-65" frameY="-23" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10011" x="3268" y="0" width="400" height="527" frameX="-67" frameY="-23" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10012" x="3668" y="0" width="400" height="527" frameX="-67" frameY="-23" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10013" x="0" y="527" width="397" height="526" frameX="-68" frameY="-24" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10014" x="397" y="527" width="401" height="531" frameX="-62" frameY="-19" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10015" x="798" y="527" width="408" height="541" frameX="-51" frameY="-9" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10016" x="1206" y="527" width="457" height="541" frameX="-2" frameY="-9" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10017" x="1663" y="527" width="466" height="550" frameX="0" frameY="-5" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10018" x="1663" y="527" width="466" height="550" frameX="0" frameY="-5" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10019" x="2129" y="527" width="462" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10020" x="2129" y="527" width="462" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10021" x="2591" y="527" width="465" height="555" frameX="-2" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10022" x="2591" y="527" width="465" height="555" frameX="-2" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10023" x="3056" y="527" width="464" height="553" frameX="-3" frameY="-2" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10024" x="3056" y="527" width="464" height="553" frameX="-3" frameY="-2" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10025" x="3520" y="527" width="464" height="553" frameX="-3" frameY="-2" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10026" x="0" y="1082" width="464" height="552" frameX="-3" frameY="-3" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10027" x="0" y="1082" width="464" height="552" frameX="-3" frameY="-3" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10028" x="464" y="1082" width="464" height="554" frameX="-3" frameY="-1" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10029" x="464" y="1082" width="464" height="554" frameX="-3" frameY="-1" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10030" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10031" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10032" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10033" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10034" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10035" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="WTF instance 10036" x="928" y="1082" width="464" height="555" frameX="-3" frameY="0" frameWidth="469" frameHeight="555"/>
+	<SubTexture name="down_angry instance 10000" x="1392" y="1082" width="525" height="493" frameX="0" frameY="-3" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10001" x="1392" y="1082" width="525" height="493" frameX="0" frameY="-3" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10002" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10003" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10004" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10005" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10006" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10007" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10008" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10009" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10010" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10011" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10012" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="down_angry instance 10013" x="1917" y="1082" width="517" height="496" frameX="-9" frameY="0" frameWidth="526" frameHeight="496"/>
+	<SubTexture name="idle_angry copy instance 10000" x="2434" y="1082" width="392" height="507" frameX="-4" frameY="-4" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10001" x="2434" y="1082" width="392" height="507" frameX="-4" frameY="-4" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10002" x="2826" y="1082" width="396" height="510" frameX="0" frameY="-1" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10003" x="3222" y="1082" width="396" height="510" frameX="0" frameY="-1" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10004" x="3618" y="1082" width="391" height="511" frameX="-2" frameY="0" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10005" x="3618" y="1082" width="391" height="511" frameX="-2" frameY="0" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10006" x="0" y="1637" width="388" height="510" frameX="-3" frameY="-1" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10007" x="0" y="1637" width="388" height="510" frameX="-3" frameY="-1" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10008" x="388" y="1637" width="386" height="509" frameX="-5" frameY="-2" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10009" x="388" y="1637" width="386" height="509" frameX="-5" frameY="-2" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10010" x="774" y="1637" width="386" height="509" frameX="-5" frameY="-2" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10011" x="774" y="1637" width="386" height="509" frameX="-5" frameY="-2" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10012" x="388" y="1637" width="386" height="509" frameX="-5" frameY="-2" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="idle_angry copy instance 10013" x="1160" y="1637" width="385" height="507" frameX="-7" frameY="-4" frameWidth="396" frameHeight="511"/>
+	<SubTexture name="left_angry instance 10000" x="1545" y="1637" width="397" height="515" frameX="0" frameY="0" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10001" x="1545" y="1637" width="397" height="515" frameX="0" frameY="0" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10002" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10003" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10004" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10005" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10006" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10007" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10008" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10009" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10010" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10011" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10012" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="left_angry instance 10013" x="1942" y="1637" width="399" height="511" frameX="-8" frameY="-4" frameWidth="407" frameHeight="515"/>
+	<SubTexture name="right_angry instance 10000" x="2341" y="1637" width="486" height="521" frameX="-9" frameY="0" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10001" x="2341" y="1637" width="486" height="521" frameX="-9" frameY="0" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10002" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10003" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10004" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10005" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10006" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10007" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10008" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10009" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10010" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10011" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10012" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="right_angry instance 10013" x="2827" y="1637" width="489" height="516" frameX="0" frameY="-5" frameWidth="495" frameHeight="521"/>
+	<SubTexture name="up_angry instance 10000" x="3316" y="1637" width="461" height="552" frameX="0" frameY="0" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10001" x="3316" y="1637" width="461" height="552" frameX="0" frameY="0" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10002" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10003" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10004" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10005" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10006" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10007" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10008" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10009" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10010" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10011" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10012" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+	<SubTexture name="up_angry instance 10013" x="0" y="2189" width="461" height="535" frameX="-5" frameY="-17" frameWidth="466" frameHeight="552"/>
+</TextureAtlas>

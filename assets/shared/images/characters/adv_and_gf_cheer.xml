@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="adv and gf cheer.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cheer gf and adv0000" x="0" y="0" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0001" x="1498" y="0" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0002" x="2996" y="0" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0003" x="2996" y="0" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0004" x="4494" y="0" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0005" x="5992" y="0" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0006" x="0" y="1451" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0007" x="1498" y="1451" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0008" x="2996" y="1451" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0009" x="4494" y="1451" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0010" x="5992" y="1451" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0011" x="0" y="2902" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0012" x="0" y="2902" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0013" x="1498" y="2902" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0014" x="2996" y="2902" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0015" x="4494" y="2902" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0016" x="5992" y="2902" width="1498" height="1451"/>
+	<SubTexture name="cheer gf and adv0017" x="0" y="4353" width="1498" height="1451"/>
+</TextureAtlas>
