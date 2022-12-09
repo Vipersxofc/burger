@@ -1,0 +1,5 @@
+Fades out the HUD
+
+Value 1: Whether HUD should fade in or out (type in or out)
+
+Value 2: How long the fade takes
