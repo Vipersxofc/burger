@@ -1,0 +1,56 @@
+{
+	"storyName": "Plorps of Joy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Greenster",
+			"greeny",
+			[
+				80,
+				113,
+				93
+			],
+			"greenster",
+			"Vasalto"
+		],
+		[
+			"Booger",
+			"greeny",
+			[
+				80,
+				113,
+				93
+			],
+			"booger",
+			"Xeno Virus"
+		],
+		[
+			"Fool",
+			"greeny",
+			[
+				80,
+				113,
+				93
+			],
+			"fool",
+			"Marco Dhampir"
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Plorps of Joy",
+	"hiddenUntilUnlocked": false
+}

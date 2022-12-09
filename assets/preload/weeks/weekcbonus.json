@@ -1,0 +1,34 @@
+{
+	"storyName": "bonus songs blah blah blah",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"incompletion",
+			"nicole",
+			[
+				0,
+				113,
+				93
+			],
+			"incompletion",
+			"OneArios"
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "wow the fucking bonus songs"
+}
